@@ -1,0 +1,56 @@
+#edit {
+    display: none;
+}
+
+.complete {
+    text-decoration: line-through;
+}
+
+h1 {
+    color: rgb(3, 3, 3);
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    color: blue;
+    display: flex;
+    justify-content: center;
+}
+
+#create {
+    background-color: #fff;
+    padding: 20px 20px 20px 20px;
+}
+
+#edit {
+    background-color: gray;
+    padding: 20px 20px 20px 20px;
+}
+
+#root_nochange {
+    margin-bottom: 20px;
+}
+
+.row {
+    margin: 10px;
+}
+
+.content {
+    font-size: 1.1rem;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+    display: flex;
+    color: rgb(15, 30, 247);
+    justify-content: center;
+}
+
+#root {
+    background-color: rgb(190, 190, 190);
+}
+
+.text-primary {
+    color: #000!important;
+}
